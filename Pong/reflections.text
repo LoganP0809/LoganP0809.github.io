@@ -1,0 +1,9 @@
+The Game Play Is A White Ball Bouncing From One Side To The Other. While Paddles Stop The Ball From Entering Into Their Side. If The Ball Does Make It To Their Side, It Will Give The Opposing Player A Point.
+The Conditions When The Game Begins Are That The Ball Starts At The Very Middle And Picks A Random Direction to Start Moving In. While The Player's Paddles Are In The Middle Of Their Side.
+There Is In Fact A End. The Game Ends When One Of The Players Reach The Score Of 11, That Is When The Game Will End.
+The "if"s would be: if ([ball] === [x/y coordinate]){ then [place ball at middle point and score the opposing side a point]}
+The Static Parts Of The Game Are The Background, Or The Board. The Animated Is The Ball, Paddles, And The Score.
+The Data I Would Need Is X/Y Positions, and Points.
+The Events Would Be Up and Down Keys.
+They Effect The Data By Telling The Program To Move Something When A Certain Button Is Pressed.
+When The Up Arrow Is Pressed, It Should Move One Side Of The Paddle Up For How Ever Long The Button Is Held Down. While The Down Arrow Is Held Down, It Should Move The Paddle Downward For However Long It Is Held Down For. Note That The Paddle Will Only Go Down As Much At The Screen Allows It.
